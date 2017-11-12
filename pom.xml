@@ -136,9 +136,9 @@
 			<version>3.1</version>
 		</dependency>
 		<dependency>
-			<groupId>eleval</groupId>
+			<groupId>de.uma.dws</groupId>
 			<artifactId>eleval</artifactId>
-			<version>0.0.2-SNAPSHOT</version>
+			<version>0.0.3</version>
 		</dependency>
 	</dependencies>
 
