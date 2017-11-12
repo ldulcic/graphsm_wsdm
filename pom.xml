@@ -120,11 +120,11 @@
 			<artifactId>trove4j</artifactId>
 			<version>3.0.3</version>
 		</dependency>
-		<dependency>
-			<groupId>de.uni_mannheim.informatik.dws</groupId>
-			<artifactId>dwslib</artifactId>
-			<version>1.0.2</version>
-		</dependency>
+		<!--<dependency>-->
+			<!--<groupId>de.uni_mannheim.informatik.dws</groupId>-->
+			<!--<artifactId>dwslib</artifactId>-->
+			<!--<version>1.0.2</version>-->
+		<!--</dependency>-->
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-math3</artifactId>
